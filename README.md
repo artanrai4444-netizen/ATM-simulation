@@ -1,2 +1,7 @@
 # ATM-simulation
-banking system 
+banking-system/
+│
+├── utils.py
+├── withdraw.py
+├── deposit.py
+└── main.py
